@@ -1,0 +1,14 @@
+.bgimage{
+    width: 90%;
+    height: 700px;
+    margin: 0 auto;
+    border: 1px solid;
+    background:  rgb(250, 157, 57) url(./images/fire.jpg) no-repeat center center  scroll;
+}
+
+.boxmodel{
+    background: deeppink;
+    padding: 50px;
+    border: 1px solid rgb(29, 10, 10);
+    margin: 20px;
+}
